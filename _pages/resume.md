@@ -3,7 +3,6 @@ layout: page
 title: Resume
 permalink: /about/
 ---
-
 # Deep Wilson Aricatt
 deep.16wilson@gmail.com | +91 8767102424
 <br>
@@ -13,15 +12,21 @@ deep.16wilson@gmail.com | +91 8767102424
 
 ## Work Experience
 
+### **Siemens**
+*Sr. Machine learning Engineer* (*May 2021 - Present*)
+- Currently working on contamination prevention at vaccine production workbench by detecting 3D Human Pose and restricting human movement on the basis of speed and co-worker proximity. (Client - GSK)
+- Custom object detection pipeline to detect faulty clip placements on automotive dashboards (Client - Faurecia)
+- Attention based U-Net to detect alpha-numeric text from drum-disks (Client - Munjal)
+
 ### **Orbo.ai**
-*Computer Vision Engineer* (*October 2019 - present*)
-- Currently leading the Face Recognition project for Mumbai Metro (MMRDA) along with Face detection following LFFD architecture.
+*Computer Vision Engineer* (*October 2019 - May 2021*)
+- Lead the Face Recognition project for Mumbai Metro (MMRDA) 
 Literature survey and training models from scratch with large-scale data along with OpenVINO optimization and hardware setup.
-Data augmentation to tackle racial bias (specific to Indian faces) and low lighting
+Data augmentation to tackle racial bias (specific to Indian faces) and low lighting without sacrificing LFW accuracy (99.3%)
 - Face detection model on the lines of LFFD (A Light and Fast Face Detector for Edge Devices) for real-time crowd monitoring.
-- Packaged deep learning models (SR, face mask detection, social distance monitoring etc.) into production level C++ SDKs for clients oriented towards deployment on edge devices like routers.
+- Packaged deep learning models (SR, face mask detection, social distance monitoring etc.) into production level C++ SDKs for clients oriented towards deployment on edge devices like routers (Client - Cisco)
 - Created Super Resolution models using Residual Dense Block architecture for entertainment industry and mobile phones (lightweight models by pruning and quantization) 
-- Created benchmarking tools to assess model performance in terms of VMAF, PSNR, SSIM etc. for super resolution applications.
+- Created benchmarking tools to assess model performance in terms of VMAF, PSNR, SSIM etc. for super resolution applications
 
 ### **Yrals Digital Pvt. Ltd.**
 *Developer Python | Machine Learning* (*March 2017 - October 2019*)
@@ -64,7 +69,7 @@ Engineering)
 
 ## Technical Skills
 **Industry Knowledge:** 
-*Computer Vision / Machine Learning / Deep Learning* **o** *OpenVINO optimization (C++ & Python)* **o** *AWS (AWSCLI, S3, Lambda, EC2, CloudFront)* **o** *Data Structures and Algorithms* **o** *Basic front-end skills* **o** *Github*
+*Computer Vision / Machine Learning / Deep Learning* **o** *OpenVINO optimization (C++ & Python)* **o** *AWS (AWSCLI, S3, Lambda, EC2, CloudFront)* **o** *Data Structures and Algorithms* **o** *Basic front-end skills* **o** *Github* **o** 3D Computer Vision **o**  Lidar data processing
 
 **Programming:** 
  *Python (Proficient)* **o** *C/C++ (Intermediate)* **o** *CUDA programming* **o** *JavaScript* **o** *PHP* **o** *MATLAB* **o** *VHDL*
@@ -84,6 +89,8 @@ Engineering)
 - Trending article suggestion based on K-means clustering
 - Intelligent seam carving & Background removal 
 - Blurred text detection using LSTM
+- Object detection pipeline (SSD/Faster-RCNN)
+- U-Net text detection
 
 
 ## Extracurriculars and Achievements
