@@ -14,7 +14,7 @@ deep.16wilson@gmail.com | +91 8767102424
 
 ### **Siemens**
 *Sr. Machine learning Engineer* (*May 2021 - Present*)
-- Currently working on contamination prevention at vaccine production workbench by detecting 3D Human Pose and restricting human movement on the basis of speed and co-worker proximity. (Client - GSK)
+- Currently working on contamination prevention at vaccine production workbench by detecting 3D Human Pose from Lidar feeds and restricting human movement on the basis of speed and co-worker proximity. (Client - GSK)
 - Custom object detection pipeline to detect faulty clip placements on automotive dashboards (Client - Faurecia)
 - Attention based U-Net to detect alpha-numeric text from drum-disks (Client - Munjal)
 
