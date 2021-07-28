@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Resume
-permalink: /about/
+permalink: /resume/
 ---
 # Deep Wilson Aricatt
 deep.16wilson@gmail.com | +91 8767102424
