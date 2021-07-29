@@ -6,7 +6,7 @@ permalink: /resume/
 # Deep Wilson Aricatt
 deep.16wilson@gmail.com | +91 8767102424
 <br>
-**[GitHub](https://github.com/deepwilson)**   **[LinkedIn](https://www.linkedin.com/in/deep-wilson-aricatt-7a20a173/)** 
+**[GitHub](https://github.com/deepwilson)**  | **[LinkedIn](https://www.linkedin.com/in/deep-wilson-aricatt-7a20a173/)** |
 **[StackOverflow](https://stackoverflow.com/users/7677793/dewil)** 
 
 
@@ -37,7 +37,7 @@ Data augmentation to tackle racial bias (specific to Indian faces) and low light
 - Built scalable back-end from scratch for "TV Feed Analyzer" using AWS Lambda, EC2 and Mongo DB (system design, DB architecture, cron automation etc.)
 - Deployed end to end machine learning pipelines on AWS
 - Found solutions to problems in the video processing domain to optimize workflow and avoid bottle necks related to speed as well as compute costs on AWS (multi-processing in serverless environment)
-- Joined as junior Python Developer to produce maintainable and well documented code for analytical and research-oriented problems related to computer vision, audio and video processing.
+- Joined as junior Python Developer to produce maintainable and well documented code for analytical and research-oriented problems related to computer vision, audio and video processing
 
 ### **MATLAB Helper** 
 *MATLAB Developer* (*July 2016 - August 2016*)
@@ -69,7 +69,7 @@ Engineering)
 
 ## Technical Skills
 **Industry Knowledge:** 
-*Computer Vision / Machine Learning / Deep Learning* **o** *OpenVINO optimization (C++ & Python)* **o** *AWS (AWSCLI, S3, Lambda, EC2, CloudFront)* **o** *Data Structures and Algorithms* **o** *Basic front-end skills* **o** *Github* **o** 3D Computer Vision **o**  Lidar data processing
+*Computer Vision / Machine Learning / Deep Learning* **o** *OpenVINO optimization (C++ & Python)* **o** *AWS (AWSCLI, S3, Lambda, EC2, CloudFront)* **o** *Data Structures and Algorithms* **o** *Basic front-end skills* **o** *Github* **o** *3D Computer Vision* **o**  *Lidar data processing*
 
 **Programming:** 
  *Python (Proficient)* **o** *C/C++ (Intermediate)* **o** *CUDA programming* **o** *JavaScript* **o** *PHP* **o** *MATLAB* **o** *VHDL*
@@ -94,7 +94,7 @@ Engineering)
 
 
 ## Extracurriculars and Achievements
-
+- Speaker at DevOps India Summit-21 *Topic-“Chaos engineering for Artificial Intelligence using MLOps approach”*
 - Keyboardist, song writer @ [Keyband](https://www.youtube.com/channel/UCd0RBs6FM0Vvvvy1C_t_4GQ) - Official band of Kalyan Eparchy Youth (Performed with artists including [Alphonse Joseph](https://www.youtube.com/watch?v=SjuB5TtFsuw) and Rexband)
 - Trinity Guildhall certified Keyboardist
 - Serving as Choirmaster for St. Joseph's Church, MC Road since 2018
