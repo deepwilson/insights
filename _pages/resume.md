@@ -111,4 +111,4 @@ Engineering)
 - Secured 5th place in "One Minute to Fame (Keyboards)" at TALENTIA 2015
 - Secured "ELITE" status in NPTEL certification course "Practical Machine Learning with Tensorflow 2.0"
 
-/* </div> */
+<!-- </div> -->
