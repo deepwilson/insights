@@ -2,6 +2,8 @@
 layout: page
 title: Resume
 permalink: /resume/
+fontsize: 14pt
+
 ---
 <!-- <style>
 p {
