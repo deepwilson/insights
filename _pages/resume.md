@@ -3,7 +3,7 @@ layout: page
 title: Resume
 permalink: /resume/
 ---
-<font size="15"> 
+<font size="12"> 
 # Deep Wilson Aricatt
 deep.16wilson@gmail.com | +91 8767102424
 <br>
