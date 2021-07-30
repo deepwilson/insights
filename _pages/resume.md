@@ -3,8 +3,12 @@ layout: page
 title: Resume
 permalink: /resume/
 ---
+<style>
+p {
+  font-size: 15px
+}
+<div>
 
-<p style="font-size:18px"> 
 # Deep Wilson Aricatt
 deep.16wilson@gmail.com | +91 8767102424
 <br>
@@ -107,4 +111,4 @@ Engineering)
 - Secured 5th place in "One Minute to Fame (Keyboards)" at TALENTIA 2015
 - Secured "ELITE" status in NPTEL certification course "Practical Machine Learning with Tensorflow 2.0"
 
-</p>
+</div>
